@@ -1,7 +1,7 @@
 # pyMessage
 DESCRIPTION:
 Final project for CS164.
-A barebones client/server messaging program that is run on terminal.
+A barebones client/server messaging program implemented in python.
 
 USAGE:
 Place all the files in a mininet vm.
